@@ -86,7 +86,7 @@ nav {
 #hero {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     height: 100vh;
-    background: url(gambar/gambarutama.jpeg) center/cover;
+    background: url(./gambar/gambarutama.jpeg) center/cover;
     display: flex;
     align-items: center;
     justify-content: center;    text-align: center;
